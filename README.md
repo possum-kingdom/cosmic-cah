@@ -1,4 +1,4 @@
-# Skye CAH Discord Bot
+# Cosmic CAH Discord Bot
 
 A Cards Against Humanity–style Discord bot with:
 - Slash commands
